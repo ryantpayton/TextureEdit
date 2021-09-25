@@ -1,2 +1,2 @@
-v1.20.32
-Added support for required json files
+v1.20.33
+Updated links to receieve automatic updates
